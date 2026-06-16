@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size:18px">I'm passionate about exploring all sorts of interesting things.</p>
+  <h1>I'm passionate about exploring all sorts of interesting things.</h1>
 </div>
 
 <div align="center">
