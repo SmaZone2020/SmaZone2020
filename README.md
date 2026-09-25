@@ -1,8 +1,7 @@
-<div align="center">
-  <h1>I'm passionate about exploring all sorts of interesting things.</h1>
-</div>
 
 ## Hi, I'm Maxwell
+> I'm passionate about exploring all sorts of interesting things.
+
 #### Tech stack： 
 ![.NET](https://img.shields.io/badge/.NET-C172D7?style=flat-square&logo=.net&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
